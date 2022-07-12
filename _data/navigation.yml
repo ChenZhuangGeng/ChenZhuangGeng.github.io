@@ -74,18 +74,3 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-
-docs-en:
-  - title:      QuickStart
-    children:
-      - title:  quick-start
-        url:    /docs/en/quick-start
-        - title:  我是小小侧边栏
-          url:    /docs/en/structure
-  - title:      Customization
-    children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
-
