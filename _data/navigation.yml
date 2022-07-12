@@ -76,12 +76,12 @@ header:
     url: /about.html
 
 docs-en:
-  - title:      Start
+  - title:      我是侧边栏
     children:
-      - title:  Quick Start
+      - title:  我是小侧边栏
         url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
+        - title:  我是小小侧边栏
+          url:    /docs/en/structure
   - title:      Customization
     children:
       - title:  Configuration
