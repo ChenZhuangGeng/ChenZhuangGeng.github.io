@@ -76,9 +76,9 @@ header:
     url: /about.html
 
 docs-en:
-  - title:      我是侧边栏
+  - title:      QuickStart
     children:
-      - title:  我是小侧边栏
+      - title:  quick-start
         url:    /docs/en/quick-start
         - title:  我是小小侧边栏
           url:    /docs/en/structure
